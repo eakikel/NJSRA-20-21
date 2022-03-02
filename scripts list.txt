@@ -1,32 +1,27 @@
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS nwac 02-01-20 sl boys u10u12u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS nwac 02-01-20 sl girls u10u12u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 01-22-22 gs boys u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 01-22-22 gs girls u16u19
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mc 02-02-20 gs boys u10u12u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mc 02-02-20 gs girls u10u12u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 01-23-22 gs boys u12u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 01-23-22 gs girls u12u14
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-09-20 sl boys u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-09-20 sl girls u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 01-30-22 gs boys u8u10
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 01-30-22 gs girls u8u10
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 01-26-20 sl boys u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 01-26-20 sl girls u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-05-22 gs boys u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-05-22 gs girls u16u19
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mc 01-25-20 gs boys u16u19
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mc 01-25-20 gs girls u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-06-22 sl boys u12u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-06-22 sl girls u12u14
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 01-26-20 sl boys u16u19
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 01-26-20 sl girls u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-27-22 sl boys u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 02-27-22 sl girls u16u19
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-08-20 sl boys u16u19
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-08-20 sl girls u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-13-22 gs boys u12u14
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-13-22 gs girls u12u14
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-09-20 sl boys u16u19
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-09-20 sl girls u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl boys u16u19
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl girls u16u19
 
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-23-20 gs boys u10u12u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS mp 02-23-20 gs girls u10u12u14
-
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS nwac 02-29-20 gs boys u12u14
-C:\Windows\SysWOW64\cscript READEXCEL-NATFIS.VBS nwac 02-29-20 gs girls u12u14
 
 C:\Windows\SysWOW64\cscript delete-out-of-state-racers.vbs
 

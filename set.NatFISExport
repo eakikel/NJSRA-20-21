@@ -1,0 +1,19 @@
+<?xml version='1.0' ?>
+<ExportOptions>
+  <Delimiter>0</Delimiter>
+  <TimeFormat>3</TimeFormat>
+  <Quoted>F</Quoted>
+  <Header>F</Header>
+  <ExportColumn>NAT Number</ExportColumn>
+  <ExportColumn>Bib</ExportColumn>
+  <ExportColumn>Full Name</ExportColumn>
+  <ExportColumn>Class</ExportColumn>
+  <ExportColumn>Club/Quota</ExportColumn>
+  <ExportColumn>Year of Birth</ExportColumn>
+  <ExportColumn>First Run Result</ExportColumn>
+  <ExportColumn>First Run Rank</ExportColumn>
+  <ExportColumn>Second Run Result</ExportColumn>
+  <ExportColumn>Second Run Rank</ExportColumn>
+  <ExportColumn>Combined Result</ExportColumn>
+  <ExportColumn>Combined Rank</ExportColumn>
+</ExportOptions>

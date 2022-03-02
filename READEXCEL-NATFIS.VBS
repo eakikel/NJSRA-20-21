@@ -73,7 +73,7 @@ MyConn.Execute del_query
 
 race = mountain & "-" & racedate  
 REM where is the Excel file located?
-excelPath = "C:\Users\erich\Documents\GitHub\njsra-19-20\" & race & "-" & racetype & "-" & gender & "-" & cat & ".csv"
+excelPath = "D:\Users\erich\Documents\GitHub\" & race & "-" & racetype & "-" & gender & "-" & cat & ".csv"
 WScript.Echo "Reading Data from " & excelPath
 
 
