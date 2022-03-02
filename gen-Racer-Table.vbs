@@ -50,6 +50,7 @@ Dim wrkgender
    SQL_query = "SELECT [Race-Import].ussa, [Race-Import].club, [Race-Import].yob, [Race-Import].name, [Race-Import].class, [Race-Import].gender, [Race-Import].outofstate "
    SQL_query = SQL_query & "FROM [Race-Import] "
    SQL_query = SQL_query & "GROUP BY [Race-Import].ussa, [Race-Import].club, [Race-Import].yob, [Race-Import].name, [Race-Import].class, [Race-Import].gender, [Race-Import].outofstate; "
+   wscript.echo SQL_query
    Set RS = MyConn.Execute(SQL_query)
    
    
@@ -62,18 +63,22 @@ Dim wrkgender
 	wrkgender = RS("gender")
 	wrkoutofstate = RS("outofstate")
 	
+	wscript.echo wrkyob
+	
+	
 	SQL_query = "SELECT * "
 	SQL_query = SQL_query & "FROM [Q-NJSRA-Members] "
    	SQL_query = SQL_query & "Where [Q-NJSRA-Members].ussa = '" & RS("ussa") & "'"
 	wscript.echo SQL_query
    	Set RS_NJSRA = MyConn.Execute(SQL_query)
+	wscript.echo wrkyob
 	
 	If RS_NJSRA.EOF Then
 		wscript.echo RS("ussa") & "NOT IN NJSRA DATABASE"
 		RS_NJSRA.Close
 		set RS_NJSRA = Nothing
 	Else
-		wrkyob = RS_NJSRA("yob")
+rem		wrkyob = RS_NJSRA("yob")
 		RS_NJSRA.Close
 		set RS_NJSRA = Nothing
 	End IF
@@ -82,6 +87,7 @@ Dim wrkgender
 		
 
 
+	wscript.echo wrkyob
 	
 	SQL_query = "SELECT [Racers].ussa "
 	SQL_query = SQL_query & "FROM [Racers] "
