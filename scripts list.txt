@@ -32,8 +32,8 @@ C:\Windows\SysWOW64\cscript updateplace.vbs
 
 C:\Windows\SysWOW64\cscript createscore-u10.vbs 7
 
-C:\Windows\SysWOW64\cscript createscore-u12.vbs 7
+C:\Windows\SysWOW64\cscript createscore-u12-wc.vbs 5
 
-C:\Windows\SysWOW64\cscript createscore-u14.vbs 7
+C:\Windows\SysWOW64\cscript createscore-u14-wc.vbs 5
 
 C:\Windows\SysWOW64\cscript createscore-u16.vbs 3
