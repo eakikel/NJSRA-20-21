@@ -22,6 +22,7 @@ C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-13-22 gs girls u12u14
 C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl boys u16u19
 C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl girls u16u19
 
+c
 
 C:\Windows\SysWOW64\cscript delete-out-of-state-racers.vbs
 
