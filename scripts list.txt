@@ -22,7 +22,8 @@ C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-13-22 gs girls u12u14
 C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl boys u16u19
 C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mc 02-26-22 sl girls u16u19
 
-c
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 03-13-22 ko boys u8u10
+C:\Windows\SysWOW64\cscript READEXCEL-TEST.VBS mp 03-13-22 ko girls u8u10
 
 C:\Windows\SysWOW64\cscript delete-out-of-state-racers.vbs
 
@@ -30,7 +31,7 @@ C:\Windows\SysWOW64\cscript gen-racer-table.vbs
 
 C:\Windows\SysWOW64\cscript updateplace.vbs
 
-C:\Windows\SysWOW64\cscript createscore-u10.vbs 7
+C:\Windows\SysWOW64\cscript createscore-u10-wc.vbs 4
 
 C:\Windows\SysWOW64\cscript createscore-u12-wc.vbs 5
 
